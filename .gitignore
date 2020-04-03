@@ -1,0 +1,13 @@
+# Local IDE files
+.idea
+
+# Compiled CSS files
+./src/cinnamon
+./src/firefox
+./src/gnome-shell
+./src/gtk-2.0
+./src/gtk-3.0
+./src/metacity-1
+./src/plank
+./src/unity
+./src/xfwm4
